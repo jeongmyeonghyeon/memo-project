@@ -1,9 +1,6 @@
 {
-  "extends": [
-    "react-app",
-    "react-app/jest"
-  ],
+  "extends": ["react-app", "react-app/jest"],
   "rules": {
-    "no-console": "error"
+    "no-console": "off"
   }
 }
